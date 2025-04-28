@@ -4,7 +4,7 @@
         2
     ],
     "description": "Ignore files if they exist in the completed tasks list (with status success OR failed)",
-    "icon": "https://raw.githubusercontent.com/Josh5/unmanic.plugin.ignore_completed_tasks/master/icon.png",
+    "icon": "https://raw.githubusercontent.com/Unmanic/plugin.ignore_completed_tasks/master/icon.png",
     "id": "ignore_completed_tasks",
     "name": "Ignore completed tasks",
     "platform": [
